@@ -1,17 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Nothing special needs to be done. For now, this does not have any app like features. Will mostly be static website.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: "2.4.1"
 
 * System dependencies
 
 * Configuration
 
-* Database creation
+* Database creation: Postgresql
 
 * Database initialization
 
